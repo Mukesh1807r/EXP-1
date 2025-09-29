@@ -10,7 +10,7 @@
 3. Provide a verification function that checks certificate authenticity.
 4. Users can verify the certificate by comparing the stored hash.
 ## Program:
-```
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 contract CertificateVerification {
@@ -40,3 +40,4 @@ return certificates[certHash];
 <img width="1910" height="1000" alt="image" src="https://github.com/user-attachments/assets/61bb6444-05ba-4b8e-b3b3-29a2ac119b5c" />
 
 # Result:
+The Decentralized Certificate Verification is successfully implemented.
