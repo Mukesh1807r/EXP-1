@@ -37,7 +37,8 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
-<img width="1910" height="1000" alt="image" src="https://github.com/user-attachments/assets/61bb6444-05ba-4b8e-b3b3-29a2ac119b5c" />
+<img width="1895" height="1005" alt="image" src="https://github.com/user-attachments/assets/ed6ea073-be36-40ee-a6b3-e05b64dceca6" />
+
 
 # Result:
 The Decentralized Certificate Verification is successfully implemented.
