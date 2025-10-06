@@ -2,6 +2,7 @@
 ```
    Name : Mukesh R
    Reg No: 212224240098
+```
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
