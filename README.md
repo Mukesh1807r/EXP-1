@@ -35,6 +35,7 @@ bytes32 certHash = keccak256(abi.encodePacked(studentName, degree,year));
 return certificates[certHash];
 }
 }
+```
 # Expected Output:
 ```
 ● When the university issues a certificate, it gets stored as a hash.
@@ -44,7 +45,7 @@ High-Level Overview:
 ● Used to prevent fake certificates.
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
-
+```
 
 # Output:
 
