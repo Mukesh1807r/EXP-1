@@ -44,7 +44,7 @@ High-Level Overview:
 ● Used to prevent fake certificates.
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
-```
+
 
 # Output:
 
